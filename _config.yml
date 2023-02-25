@@ -1,2 +1,3 @@
 markdown: kramdown 
-theme: minima
+theme: minima:
+    skin: dark
